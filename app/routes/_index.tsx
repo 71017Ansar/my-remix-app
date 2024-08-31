@@ -78,7 +78,8 @@ import { cardList } from '~/data/contacts';
 // import { TodoApp } from "~/components/TodoApp";
 import  {Weather} from "~/components/Weather"
 import { ImageModel } from '~/types/RemixType';
-import Project from '~/components/Project';
+// import Project from '~/components/Project';
+import { Toggle } from '~/components/Toogle';
 
 
 export const loader = async () => {
@@ -129,8 +130,9 @@ export default function Index() {
 
           {
         // data.map((current)=>{
-
-          <Project/>
+              
+          // <Project/>
+          <Toggle/>
             
      
     }
