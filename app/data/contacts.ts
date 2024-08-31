@@ -1,3 +1,5 @@
+import { ImageModel } from "~/types/RemixType";
+
 const cardData = [
     { imageSrc: "https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/enhancer/2.jpg", title: "Card 1", buttonText: "Click Me"},
     { imageSrc: "https://deepai.org/static/images/cyberpunkdolphin.png", title: "Card 2", buttonText: "Click Me" },
@@ -11,5 +13,41 @@ const cardData = [
     { imageSrc: "https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/enhancer/2.jpg", title: "Card 10", buttonText: "Click Me" },
 ];
 
+
+
+export const cardList : ImageModel[] = [
+    {
+      "img_url": "https://cdn.pixabay.com/photo/2024/08/22/05/03/ai-generated-8988244_640.jpg",
+      "likes": 123,
+      "views": 343,
+      "tags" :[]
+    },
+    {
+      img_url: "https://cdn.pixabay.com/photo/2024/08/22/05/03/ai-generated-8988244_640.jpg",
+      likes: 200,
+      views: 500,
+      tags: ["city", "night", "lights"]
+    },
+    {
+      img_url: "https://cdn.pixabay.com/photo/2024/08/22/05/03/ai-generated-8988244_640.jpg",
+      likes: 150,
+      views: 420,
+      tags: ["forest", "trees", "path"]
+    },
+    {
+      img_url: "https://cdn.pixabay.com/photo/2024/08/22/05/03/ai-generated-8988244_640.jpg",
+      likes: 180,
+      views: 600,
+      tags: ["mountains", "hiking", "adventure"]
+    },
+  
+  ]
+
+
+  
+
 // export cardData
 export default cardData;
+
+
+

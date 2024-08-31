@@ -72,10 +72,14 @@
 
 import { json } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
-import { ImageCard } from "~/components/ImageCard";
+import { ImageCard} from "~/components/ImageCard";
+import { cardList } from '~/data/contacts';
 // import Datafetch from "~/components/TestApi";
 // import { TodoApp } from "~/components/TodoApp";
 import  {Weather} from "~/components/Weather"
+import { ImageModel } from '~/types/RemixType';
+import Project from '~/components/Project';
+
 
 export const loader = async () => {
  
@@ -85,17 +89,54 @@ export const loader = async () => {
 export default function Index() {
   const data = useLoaderData();
 
+//   const imageModel : ImageModel = {
+//     "img_url": "https://cdn.pixabay.com/photo/2024/08/22/05/03/ai-generated-8988244_640.jpg",
+//     "likes": 123,
+//     "views": 343,
+//     "tags" :[]
+// }
+
+
+// create a list of 5 objects of ImageModel
+
+
+
   return (
     <div>
      {/* <Datafetch/> */}
      {/* <TodoApp/> */}
      {/* <Weather/> */}
-    
-         
-         <div className='grid grid-cols-4'>
-        
-        <ImageCard/>
-         </div>
+
+
+    {/* {
+      cardList.map((item, index) => {
+        return (
+          <div key={index}>
+            <ImageCard data={item} />
+            </div>
+            )
+            })
+            
+    }
+     */}
+
+
+
+
+
+
+          {/* <ImageCard  data={imageModel}  /> */}
+
+          {
+        // data.map((current)=>{
+
+          <Project/>
+            
+     
+    }
+
+
+
      
     
     
