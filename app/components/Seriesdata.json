@@ -1,0 +1,420 @@
+ [
+  {
+    "backdrop_path": "/p5kpFS0P3lIwzwzHBOULQovNWyj.jpg",
+    "id": 1032823,
+    "title": "Trap",
+    "original_title": "Trap",
+    "overview": "A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.",
+    "poster_path": "/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "popularity": 1308.217,
+    "release_date": "2024-07-31",
+    "video": false,
+    "vote_average": 6.531,
+    "vote_count": 747
+  },
+  {
+    "backdrop_path": "/cgKZtNSETjXJPkAQ4rasV7dnyQH.jpg",
+    "id": 917496,
+    "title": "Beetlejuice Beetlejuice",
+    "original_title": "Beetlejuice Beetlejuice",
+    "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+    "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      35,
+      27,
+      14,
+      9648
+    ],
+    "popularity": 763.466,
+    "release_date": "2024-09-04",
+    "video": false,
+    "vote_average": 7.615,
+    "vote_count": 26
+  },
+  {
+    "backdrop_path": "/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+    "id": 365177,
+    "title": "Borderlands",
+    "original_title": "Borderlands",
+    "overview": "Returning to her home planet, an infamous bounty hunter forms an unexpected alliance with a team of unlikely heroes. Together, they battle monsters and dangerous bandits to protect a young girl who holds the key to unimaginable power.",
+    "poster_path": "/865DntZzOdX6rLMd405R0nFkLmL.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      878,
+      35,
+      12,
+      53
+    ],
+    "popularity": 1045.258,
+    "release_date": "2024-08-07",
+    "video": false,
+    "vote_average": 5.721,
+    "vote_count": 305
+  },
+  {
+    "backdrop_path": "/qkEnklEGDFy4TRVhuHFn2DI2BP6.jpg",
+    "id": 930600,
+    "title": "The Deliverance",
+    "original_title": "The Deliverance",
+    "overview": "Ebony Jackson, a struggling single mother fighting her personal demons, moves her family into a new home for a fresh start. But when strange occurrences inside the home raise the suspicions of Child Protective Services and threaten to tear the family apart, Ebony soon finds herself locked in a battle for her life and the souls of her children.",
+    "poster_path": "/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "popularity": 170.922,
+    "release_date": "2024-08-16",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 147
+  },
+  {
+    "backdrop_path": "/stKGOm8UyhuLPR9sZLjs5AkmncA.jpg",
+    "id": 1022789,
+    "title": "Inside Out 2",
+    "original_title": "Inside Out 2",
+    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      35
+    ],
+    "popularity": 1605.708,
+    "release_date": "2024-06-11",
+    "video": false,
+    "vote_average": 7.675,
+    "vote_count": 3300
+  },
+  {
+    "backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+    "id": 533535,
+    "title": "Deadpool & Wolverine",
+    "original_title": "Deadpool & Wolverine",
+    "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      35,
+      878
+    ],
+    "popularity": 3225.2,
+    "release_date": "2024-07-24",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 2618
+  },
+  {
+    "backdrop_path": "/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
+    "id": 945961,
+    "title": "Alien: Romulus",
+    "original_title": "Alien: Romulus",
+    "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+    "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "popularity": 824.291,
+    "release_date": "2024-08-13",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 852
+  },
+  {
+    "backdrop_path": "/xx0VTrtvoRptaY3unl61Ecft8MI.jpg",
+    "id": 889737,
+    "title": "Joker: Folie à Deux",
+    "original_title": "Joker: Folie à Deux",
+    "overview": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+    "poster_path": "/byDXrm0pY6vSKIKyuKWK5vWz62G.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "popularity": 151.857,
+    "release_date": "2024-09-30",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "backdrop_path": "/qSTulvq8q1fpqQEM15jLdu0Wae0.jpg",
+    "id": 1144911,
+    "title": "Skincare",
+    "original_title": "Skincare",
+    "overview": "Famed aesthetician Hope Goldman is about to take her career to the next level by launching her very own skin care line. However, she soon faces a new challenge when a rival opens a boutique directly across from her store. Suspecting that someone is trying to sabotage her, she embarks on a quest to unravel the mystery of who's trying to destroy her life.",
+    "poster_path": "/70r0BLCDTZahz2JbHZ30Dv2wio.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "popularity": 28.699,
+    "release_date": "2024-08-15",
+    "video": false,
+    "vote_average": 6.75,
+    "vote_count": 8
+  },
+  {
+    "backdrop_path": "/lkmkNVFGsRVKZs1MqKbE6zabXc4.jpg",
+    "id": 1226578,
+    "title": "Longlegs",
+    "original_title": "Longlegs",
+    "overview": "FBI Agent Lee Harker is assigned to an unsolved serial killer case that takes an unexpected turn, revealing evidence of the occult. Harker discovers a personal connection to the killer and must stop him before he strikes again.",
+    "poster_path": "/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      80,
+      27,
+      53
+    ],
+    "popularity": 766.415,
+    "release_date": "2024-07-10",
+    "video": false,
+    "vote_average": 6.705,
+    "vote_count": 677
+  },
+  {
+    "backdrop_path": "/sIzZQdXY21sEks9lGkGuXzqdGSA.jpg",
+    "id": 4011,
+    "title": "Beetlejuice",
+    "original_title": "Beetlejuice",
+    "overview": "A newly dead New England couple seek help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+    "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      14,
+      35
+    ],
+    "popularity": 510.257,
+    "release_date": "1988-03-30",
+    "video": false,
+    "vote_average": 7.382,
+    "vote_count": 6736
+  },
+  {
+    "backdrop_path": "/7aPrv2HFssWcOtpig5G3HEVk3uS.jpg",
+    "id": 718821,
+    "title": "Twisters",
+    "original_title": "Twisters",
+    "overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+    "poster_path": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "popularity": 1143.472,
+    "release_date": "2024-07-10",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1236
+  },
+  {
+    "backdrop_path": "/qLkQvyzDytvba9vi0BslPmBcLKP.jpg",
+    "id": 1252896,
+    "title": "Lady Scorpions",
+    "original_title": "Lady Scorpions",
+    "overview": "An ex-FBI agent's fight against a crime syndicate becomes personal when they kidnap her granddaughter. She and her daughter, both martial arts masters, form an unstoppable team. Together, they outmaneuver and defeat the syndicate's henchmen in a calculated game of cat and mouse, on a relentless mission to save her and topple the criminal empire.",
+    "poster_path": "/puWFg12ykN7EncRtoUYN3NofWNy.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "popularity": 35.001,
+    "release_date": "2024-08-23",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 7
+  },
+  {
+    "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+    "id": 786892,
+    "title": "Furiosa: A Mad Max Saga",
+    "original_title": "Furiosa: A Mad Max Saga",
+    "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+    "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "popularity": 509.957,
+    "release_date": "2024-05-22",
+    "video": false,
+    "vote_average": 7.59,
+    "vote_count": 2948
+  },
+  {
+    "backdrop_path": "/dNplOw9U5IzlY7nNiaMS0JSVobp.jpg",
+    "id": 1029955,
+    "title": "Kinds of Kindness",
+    "original_title": "Kinds of Kindness",
+    "overview": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+    "poster_path": "/8mmpltkcG9areafsQHXaURedno3.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "popularity": 245.378,
+    "release_date": "2024-05-30",
+    "video": false,
+    "vote_average": 6.677,
+    "vote_count": 502
+  },
+  {
+    "backdrop_path": "/tCQfubckzzcuCbsGugkpLhfjS5z.jpg",
+    "id": 970347,
+    "title": "The Killer",
+    "original_title": "The Killer",
+    "overview": "Zee is a feared contract killer known as \"the Queen of the Dead,\" but when she refuses to murder a young blind woman, she finds herself hunted both by criminal colleagues and a determined police detective.",
+    "poster_path": "/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "popularity": 593.865,
+    "release_date": "2024-08-22",
+    "video": false,
+    "vote_average": 6.418,
+    "vote_count": 97
+  },
+  {
+    "backdrop_path": "/zVoLSd9K7ZdDJ4baKDDRt2cbNfG.jpg",
+    "id": 1114926,
+    "title": "The Good Half",
+    "original_title": "The Good Half",
+    "overview": "Renn Wheeland returns home to Cleveland for his mother's funeral. Once there, he forges new relationships while healing old ones, before confronting his problems and trying to face his grief.",
+    "poster_path": "/iLkefl9aLo29ALVBbViRVyLo3WF.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "popularity": 18.445,
+    "release_date": "2024-07-23",
+    "video": false,
+    "vote_average": 5.25,
+    "vote_count": 8
+  },
+  {
+    "backdrop_path": "/fypydCipcWDKDTTCoPucBsdGYXW.jpg",
+    "id": 653346,
+    "title": "Kingdom of the Planet of the Apes",
+    "original_title": "Kingdom of the Planet of the Apes",
+    "overview": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
+    "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "popularity": 559.484,
+    "release_date": "2024-05-08",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 2756
+  },
+  {
+    "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+    "id": 519182,
+    "title": "Despicable Me 4",
+    "original_title": "Despicable Me 4",
+    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      28
+    ],
+    "popularity": 1351.672,
+    "release_date": "2024-06-20",
+    "video": false,
+    "vote_average": 7.229,
+    "vote_count": 1419
+  },
+  {
+    "backdrop_path": "/6IrZ3C8qSZ8Tbb32s41ReJOXpI0.jpg",
+    "id": 826510,
+    "title": "Harold and the Purple Crayon",
+    "original_title": "Harold and the Purple Crayon",
+    "overview": "Inside of his book, adventurous Harold can make anything come to life simply by drawing it. After he grows up and draws himself off the book's pages and into the physical world, Harold finds he has a lot to learn about real life.",
+    "poster_path": "/dEsuQOZwdaFAVL26RjgjwGl9j7m.jpg",
+    "media_type": "movie",
+    "adult": false,
+    "original_language": "en",
+    "genre_ids": [
+      12,
+      10751,
+      14,
+      35
+    ],
+    "popularity": 787.946,
+    "release_date": "2024-07-31",
+    "video": false,
+    "vote_average": 6.779,
+    "vote_count": 86
+  }
+]
