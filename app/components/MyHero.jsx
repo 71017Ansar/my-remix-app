@@ -6,7 +6,7 @@ export const MyHero = ( {title, subtitle, image,} ) => {
           <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-6">
             <div className="flex-1 mb-10 md:mb-0 text-center md:text-left">
               <h1 className="text-4xl md:text-5xl font-bold mb-4">
-                MUHAMMAD ANSAR{title}
+                MUHAMMAD ANSAR  {title}
               </h1>
               <h2 className="text-2xl md:text-3xl font-semibold mb-6">
                
@@ -14,7 +14,7 @@ export const MyHero = ( {title, subtitle, image,} ) => {
               <p className="text-lg md:text-xl leading-relaxed mb-6">
                 I am a React JSX developer and I am working on creating my website
                 using React JSX. This showcases my knowledge of web development in
-                JSX using Remix.{subtitle}
+                JSX using Remix.   {subtitle}
                
               </p>
             </div>
