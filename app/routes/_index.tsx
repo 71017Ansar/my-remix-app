@@ -166,12 +166,15 @@
 // routes/_index.tsx or routes/index.tsx
 import { json } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
-import Registration from '~/components/Registration';
-import { ShortCircuit } from "~/components/shortCircuit";
-import CardList from "~/components/InputSearch";
-import {Header} from "~/components/Header";
-import { Cardlist } from "~/components/Cardlist";
-import{ Fotter} from "~/components/Fotter"
+import {MyHeader} from "~/components/MyHeader"; 
+import{ MyFotter }from "~/components/MyFotter";
+import { MyHero } from "~/components/MyHero";
+
+
+
+
+
+
 
 
 
@@ -180,25 +183,26 @@ export const loader = async () => {
     return json({}); // Returning an empty object as this example doesn't fetch any data
 };
 
-export default function Index() {
+export default function Index( ) {
     const data = useLoaderData();
+    const user={
+      title: 'LEARNING with RTEACT',
+    subtitle: 'We are a team of passionate developers.',
+    image: 'https://www.budventure.technology/public/frontend/images/blog/react_benefits_blog4.png',
+      
+    }
+
 
     return (
         <div>
-          
-          {/* <h1>Welcome to the Registration Page</h1>
-          <Registration />
-          <ShortCircuit/> */}
-          {/* <CardList/> */}
-           <Header/>
-        {/* //   <Cardnetflix/> */} 
-          <Cardlist />
-          <Fotter/>
+            <MyHeader/>
+            <MyHero {...user}/>
+      
+            <MyFotter/>
 
-       
-         
-   
-         
+
+          
+    
             </div>
     )
     
