@@ -4,8 +4,13 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
+
+  
 } from "@remix-run/react";
 import "./tailwind.css";
+import { MyHeader } from "./components/MyHeader";
+import { MyFotter } from "./components/MyFotter";
+
 
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -17,7 +22,12 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
       </head>
       <body>
+        <MyHeader/>
         {children}
+        <MyFotter/>
+        
+
+      
         <ScrollRestoration />
         <Scripts />
       </body>

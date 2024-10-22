@@ -8,7 +8,7 @@ import { MyFotter } from '../components/MyFotter';
 const Contact = () => {
   return (
     <div>
-      <MyHeader/>
+      {/* <MyHeader/> */}
     <div className="bg-gray-50 py-12">
       
       <div className="container mx-auto px-4">
@@ -71,7 +71,7 @@ const Contact = () => {
         </div>
       </div>
     </div>
-    <MyFotter/>
+    {/* <MyFotter/> */}
 
 
 

@@ -195,10 +195,10 @@ export default function Index( ) {
 
     return (
         <div>
-            <MyHeader/>
+           {/* <MyHeader/>  */}
             <MyHero {...user}/>
       
-            <MyFotter/>
+            {/* <MyFotter/> */}
 
 
           

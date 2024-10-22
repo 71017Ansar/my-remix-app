@@ -12,9 +12,9 @@ const about = () => {
  
   return (
    <div>
-    <MyHeader/>
+    {/* <MyHeader/> */}
      <MyHero {...user}  />
-    <MyFotter/>
+    {/* <MyFotter/> */}
     
     
    </div>
